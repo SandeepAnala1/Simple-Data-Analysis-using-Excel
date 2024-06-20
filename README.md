@@ -6,12 +6,15 @@
 - Change data to tabluar format - Ctrl + T
 - Set table name, you can use this table name going forward for formulas etc
 <img width="603" alt="image" src="https://github.com/SandeepAnala1/Simple-Data-Analysis-using-Excel/assets/163712602/803e7c3f-2a45-40b5-bf74-fda5e4008275">
+
 - Expand all columns
 - Format the values in the required columns
 - Quick tip: Converting normal integers to rupees or any other currency is Ctrl + Shift + 4 | Home ribbon - currency | Ctrl + 1
 ![image](https://github.com/SandeepAnala1/Simple-Data-Analysis-using-Excel/assets/163712602/94ea1786-b08f-4809-a7ec-a4e1db5a11d3)
+
 - Create new column with proper header and you can use functions here | I used if function to check the status of purchase
 ![image](https://github.com/SandeepAnala1/Simple-Data-Analysis-using-Excel/assets/163712602/d7bb51f6-7e2f-4fe7-82a4-b200518cef6e)
+
 - While writing formula, hold shift ammarey
 - To enable filters, Ctrl + Shift + L
 
