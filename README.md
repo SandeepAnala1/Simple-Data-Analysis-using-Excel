@@ -37,6 +37,7 @@
 
 - When you double click on outlier values of purchase amount, you can find the details of specific date
 
+
 ![image](https://github.com/SandeepAnala1Simple-Data-Analysis-using-Excel/assets/163712602/8aa5b953-5200-4086-972a-143787972582)
 
 
