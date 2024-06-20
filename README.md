@@ -5,11 +5,13 @@
 ## 1. Data Cleaning
 - Change data to tabluar format - Ctrl + T
 - Set table name, you can use this table name going forward for formulas etc
+
 <img width="603" alt="image" src="https://github.com/SandeepAnala1/Simple-Data-Analysis-using-Excel/assets/163712602/803e7c3f-2a45-40b5-bf74-fda5e4008275">
 
 - Expand all columns
 - Format the values in the required columns
 - Quick tip: Converting normal integers to rupees or any other currency is Ctrl + Shift + 4 | Home ribbon - currency | Ctrl + 1
+
 ![image](https://github.com/SandeepAnala1/Simple-Data-Analysis-using-Excel/assets/163712602/94ea1786-b08f-4809-a7ec-a4e1db5a11d3)
 
 - Create new column with proper header and you can use functions here | I used if function to check the status of purchase
@@ -26,11 +28,15 @@
     - Insert PivotTable: Go to the Insert tab and click on PivotTable.
     - Choose the PivotTable Location: Decide whether to place the PivotTable in a new worksheet or an existing one.
     - Configure the PivotTable: Drag and drop fields into the Rows, Columns, Values, and Filters areas to configure the PivotTable.
+
 <img width="706" alt="image" src="https://github.com/SandeepAnala1/Simple-Data-Analysis-using-Excel/assets/163712602/0704673c-deb6-47aa-8c8d-6973248db9e6">
+
 - When PivotTables Field is missing, just right click on the values and select show field list
+
 ![image](https://github.com/SandeepAnala1/Simple-Data-Analysis-using-Excel/assets/163712602/1800c847-96ae-4122-a561-52dd57a6c433)
 
 - When you double click on outlier values of purchase amount, you can find the details of specific date
+
 ![image](https://github.com/SandeepAnala1Simple-Data-Analysis-using-Excel/assets/163712602/8aa5b953-5200-4086-972a-143787972582)
 
 
